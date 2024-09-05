@@ -1,0 +1,14 @@
+/Users/emrahelis/Desktop/ikinciDers/bin/Debug/net8.0/ikinciDers
+/Users/emrahelis/Desktop/ikinciDers/bin/Debug/net8.0/ikinciDers.deps.json
+/Users/emrahelis/Desktop/ikinciDers/bin/Debug/net8.0/ikinciDers.runtimeconfig.json
+/Users/emrahelis/Desktop/ikinciDers/bin/Debug/net8.0/ikinciDers.dll
+/Users/emrahelis/Desktop/ikinciDers/bin/Debug/net8.0/ikinciDers.pdb
+/Users/emrahelis/Desktop/ikinciDers/obj/Debug/net8.0/ikinciDers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Desktop/ikinciDers/obj/Debug/net8.0/ikinciDers.AssemblyInfoInputs.cache
+/Users/emrahelis/Desktop/ikinciDers/obj/Debug/net8.0/ikinciDers.AssemblyInfo.cs
+/Users/emrahelis/Desktop/ikinciDers/obj/Debug/net8.0/ikinciDers.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Desktop/ikinciDers/obj/Debug/net8.0/ikinciDers.dll
+/Users/emrahelis/Desktop/ikinciDers/obj/Debug/net8.0/refint/ikinciDers.dll
+/Users/emrahelis/Desktop/ikinciDers/obj/Debug/net8.0/ikinciDers.pdb
+/Users/emrahelis/Desktop/ikinciDers/obj/Debug/net8.0/ikinciDers.genruntimeconfig.cache
+/Users/emrahelis/Desktop/ikinciDers/obj/Debug/net8.0/ref/ikinciDers.dll
