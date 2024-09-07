@@ -93,3 +93,64 @@ Console.WriteLine("Mod:"+ikinciSayi%birinciSayi);
 // Çıktı : wissenbesiktas
 
 // Cumertesi konusu , metinsel işler operatörler..
+
+
+int age = 30;
+
+// değişkenin farklı bir tanımlama şekli yokmu ?
+
+// degiskeni tanımladım ama değerini vermedim
+string city;
+
+// değerini bir alt satırda verebiliriz.
+city="ben metinsel bir değişkenim";
+
+// farklı bir tanımlama şekli
+
+int birinciDegisken,ikinciDegisken,ucuncuDegisken;
+
+// değer atayalım
+birinciDegisken=5;
+ikinciDegisken=15;
+ucuncuDegisken=20;
+
+// yukarıda değerleri verilen değişkenin değerini değiştirelim
+birinciDegisken=50;
+
+
+// bir değişkene farklı zamanlarda iki değer atandığında, her zaman son değeri taşıyacaktır.
+
+
+// farklı tiplerdeki verileri farklı tip değişkene atmaya çalışalım.
+
+int stringAtananInt="int tipine string değer vermek";
+
+// farklı bir tipte veriyi, farklı bir tip taşıyabilen bir değişkene atamak istediğimizde, derleme zamanı hatası alırız.
+
+// derleme zamanı hatası, kodun derleyici tarafından derleyemesi, dolayısıyla çalışmaması anlamına gelir.
+
+
+
+//int icerinsindeRakamOlanString = "10";
+
+
+// bilinçli ve bilinçsiz tip dönüşümlerinde bu konuyu göreceğiz.(Burada büyük tipin, küçük tipe atanması konusunu gördük.)
+
+// büyük tip, küçük tipe atanmaya çalışıldığı için, veri kaybı olabilir endişesi ile, derleyici bizim onay verip, tip dönüşümü yapmamızı istedi.
+//byte byteAtanacak;
+//int  intAtanmis=100;
+//byteAtanacak=intAtanmis;
+
+
+// küçük tip, büyük tipe atanmaya çalışıldığı için, derleyici bu işlemi kendi kendine yaptı
+//int buyukSayi ;
+//byte kucukSayi = 155;
+//buyukSayi=kucukSayi;
+
+
+
+/*
+
+Çoklu satır yorum satırı yapmak için, bu yapıyı kullanabilirsiniz.
+
+*/

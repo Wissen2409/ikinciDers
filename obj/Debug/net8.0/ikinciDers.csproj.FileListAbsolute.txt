@@ -12,3 +12,4 @@
 /Users/emrahelis/Desktop/ikinciDers/obj/Debug/net8.0/ikinciDers.pdb
 /Users/emrahelis/Desktop/ikinciDers/obj/Debug/net8.0/ikinciDers.genruntimeconfig.cache
 /Users/emrahelis/Desktop/ikinciDers/obj/Debug/net8.0/ref/ikinciDers.dll
+/Users/emrahelis/Desktop/ikinciDers/obj/Debug/net8.0/ikinciDers.sourcelink.json
